@@ -1,6 +1,6 @@
 # lab-dio-VM
 
-O conjunto de dimensionamento e o conjunto de disponibilidade das máquinas virtuais são configurados durante a criação da VM
+* O conjunto de dimensionamento e o conjunto de disponibilidade das máquinas virtuais são configurados durante a criação da VM
 
 * Modelo de spot do Azure: Opção onde é possível pagar muito mais barato que os valores convencionais, com a condição de que a microsoft pode derrubar o serviço a qualquer momento caso precise. útil apenas pra ambiente de desenvolvimento.
 
